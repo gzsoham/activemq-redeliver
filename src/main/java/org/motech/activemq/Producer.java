@@ -1,3 +1,5 @@
+package org.motech.activemq;
+
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
